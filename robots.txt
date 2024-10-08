@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mijulj.github.io/buY/sitemap.buY.gz
